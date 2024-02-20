@@ -14,6 +14,8 @@
     list-style-type: none;
   }
 
+  /* styles pentru index.html */
+
   .left-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 800;
@@ -69,6 +71,9 @@
 
 .buton-order-service {
     background-color:#4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
     color: #fff;
 }
 
@@ -114,3 +119,34 @@
     color: #2E2F42;
 }
 
+/* styles pentru portofolio.html */
+
+.filterall {
+    background-color:#404BBF;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #fff;
+}
+
+.filterbuton {
+    background-color:#E7E9FC;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #4D5AE5;
+}
+
+.firstcard-clas-h {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #2E2F42;
+}
+
+.firstcard-clas-p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #2E2F42;
+}
